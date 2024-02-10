@@ -1,0 +1,167 @@
+.menu{
+    margin-left: 325px;
+    margin-top: 20px;
+    color: rgb(1, 0, 39);
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline-block;
+    font-weight: 550;
+       
+}
+
+.menu:hover {
+    color:rgb(139, 167, 252);
+}
+
+.title{
+    margin-left: 475px;
+    width: 800px;
+    font-family: Arial, Helvetica, sans-serif ;
+    font-size: 45px;
+    font-weight: 650;
+    margin-top: 100px;
+    display: block;
+    color:rgb(4, 0, 110);
+    
+}
+
+.under_title{
+    color: rgb(83, 63, 234);
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 30px;
+    margin-bottom: 40px;
+    display: inline-block;
+
+}
+
+.first{
+    margin-left: 950px;
+}
+
+.image{
+    width: 1000px;
+    display: block;
+    margin: 0 auto;
+}
+.descript{
+    margin-left: 250px;
+    width: 1000px;
+    display: block;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    color: black;
+    font-size: 15px;
+}
+
+header{
+    position: sticky;
+    top: 0;
+    background-color: rgb(114, 162, 252);
+}
+
+.subscribe{
+    padding: 10px;
+    background-color: rgb(121, 148, 237);
+}
+
+.subscribe input{
+    width: 200px;
+    padding: 5px;
+}
+.subscribe button{
+    background-color: rgb(0, 43, 130);
+    border: none;
+    padding: 5px 5px;
+    color: rgb(179, 184, 255);
+    font-weight: bold;
+
+
+}
+
+.subscribe button:hover{
+    color: rgb(237, 246, 255);
+}
+
+.weekspecial{
+    margin-top: 50px;
+    border: 1px solid rgb(4, 31, 90);
+    padding: 20px;
+}
+
+.reviewstitle{
+    margin-top: 25px;
+    margin-left: 15px;
+    color: rgb(5, 18, 154);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.reviewscontent{
+    margin-left: 15px;
+    color: rgb(37, 71, 176);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.star{
+    margin-left: 10px;
+    color: rgb(50, 79, 175);
+    font-size: 25px;
+}
+
+.reviewsmaintitle {
+    margin-left:550px ;
+    color:rgb(4, 0, 110) ;
+    font-family: Arial, Helvetica, sans-serif ;
+    font-size: 45px;
+    font-weight: 650;
+}
+
+.reviewstitle:hover{
+    color: rgb(107, 107, 228);
+}
+
+input[type="text"], select, textarea{
+    width:100%;
+    padding: 12px;
+    border: 1px solid rgb(3, 24, 95);
+    margin-top: 10px;
+    margin-bottom: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+input[type="submit"]{
+    background-color: rgb(11, 11, 103);
+    color: azure;
+    border: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+input[type="submit"]:hover{
+    color: rgb(5, 5, 91);
+    background-color: rgb(108, 157, 247);
+}
+
+.labeltitle{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(11, 8, 102);
+}
+
+.labeltitle:hover{
+    color: rgb(85, 85, 228);
+}
+
+
+.othertitle{
+    margin-left: 600px;
+    width: 600px;
+    font-family: Arial, Helvetica, sans-serif ;
+    font-size: 45px;
+    font-weight: 650;
+    margin-top: 55px;
+    display: block;
+    color:rgb(4, 0, 110);
+}
+
+.othertitle:hover{
+    color: rgb(90, 117, 238);
+}
